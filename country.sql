@@ -1,7 +1,7 @@
 -- phpMyAdmin SQL Dump
 -- version 4.5.1
 -- http://www.phpmyadmin.net
--- Password: it is blank
+-- Password: it is really blank
 -- Host: 127.0.0.1
 -- Generation Time: Sep 01, 2016 at 05:13 PM
 -- Server version: 10.1.13-MariaDB
